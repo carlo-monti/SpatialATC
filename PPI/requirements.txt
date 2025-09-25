@@ -1,0 +1,8 @@
+asterix-decoder==0.7.9
+future==1.0.0
+iso8601==2.1.0
+numpy==2.3.1
+pillow==10.4.0
+PyYAML==6.0.2
+serial==0.0.97
+ttkbootstrap==1.13.12
